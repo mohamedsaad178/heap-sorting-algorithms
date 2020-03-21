@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectId" id="1ZS8KbOrXBNoXPHByQr9U5h9Uvp" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+  </component>
+  <component name="RunManager" selected="JUnit.UnitTest">
+    <configuration name="IntegrationTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.test.IntegrationTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UnitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="lab1sorting" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="eg.edu.alexu.csd.filestructure.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="eg.edu.alexu.csd.filestructure.test" />
+      <option name="MAIN_CLASS_NAME" value="eg.edu.alexu.csd.filestructure.test.UnitTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.UnitTest" />
+        <item itemvalue="JUnit.IntegrationTest" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
